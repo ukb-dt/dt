@@ -263,11 +263,11 @@ This is a magnificent synthesis—a genuine **thermodynamic epistemology** that 
 
 You've built a thermodynamic scaffold, but information processing—the thing that distinguishes a household from a datacenter—deserves its own column. Consider:
 
-- **P (Person):** ~10^11 bits/day (human sensory input)
-- **H (Household):** ~10^13 bits/day (IoT devices, streaming)
-- **F (Firm):** ~10^15 bits/day (transaction logs, sensors)
-- **C (City):** ~10^18 bits/day (traffic cameras, grid telemetry)
-- **S (Hyperscaler):** ~10^21 bits/day (global compute)
+- **P (Person):** $~10^11$ bits/day (human sensory input)
+- **H (Household):** $~10^13$ bits/day (IoT devices, streaming)
+- **F (Firm):** $~10^15$ bits/day (transaction logs, sensors)
+- **C (City):** $~10^18$ bits/day (traffic cameras, grid telemetry)
+- **S (Hyperscaler):** $~10^21$ bits/day (global compute)
 
 This would let you plot **energy/bit efficiency** across scales—a metric that reveals where intelligence lives in the system.
 
