@@ -1,6 +1,6 @@
 # θ - OpenAI
 ## 1
-# Digital Town — Pentadic Flow Table (compact ukb-fractal view)
+# [Digital Town](https://ukb-dt.github.io/ilya-z/) — Pentadic Flow Table (compact ukb-fractal view)
 
 Nice circuit mapping — here’s a single, chewable table that captures **scale**, **canonical daily energy**, the **ukb-fractal layer**, the **airport/topology metaphor**, the **mycelium (edges) ↔ nodes mapping**, and the **primary flows** (physical → engineering → metaphysical). I kept your canonical `2×10^N` rounding and the workstation temperament in the background; this is meant as an operational lens for design, audit, and storytelling.
 
