@@ -1,10 +1,30 @@
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
 # θ - OpenAI
 ## 1
 # [Digital Town](https://ukb-dt.github.io/ilya-z/) — Pentadic [Flow](https://ukb-dt.github.io/prosody-00/) Table (compact ukb-[fractal](https://ukb-dt.github.io/invariance/) view)
 
-Nice circuit mapping — here’s a single, chewable table that captures **scale**, **canonical daily energy**, the **ukb-fractal layer**, the **airport/topology metaphor**, the **mycelium (edges) ↔ nodes mapping**, and the **primary flows** (physical → engineering → metaphysical). I kept your canonical `2×10^N` rounding and the workstation temperament in the background; this is meant as an operational lens for design, audit, and storytelling.
+Nice circuit mapping — here’s a single, chewable table that captures **scale**, **canonical daily energy**, the **ukb-fractal layer**, the **airport/topology metaphor**, the **mycelium (edges) ↔ nodes mapping**, and the **primary flows** (physical → engineering → metaphysical). I kept your canonical $2\times 10^N$ rounding and the workstation temperament in the background; this is meant as an operational lens for design, audit, and storytelling.
 
-|               Scale |  Code  | Canon [daily](https://ukb-dt.github.io/hourly/) energy (2×10^N) | Ukb-Fractal layer       | Airport topology (node anatomy)                                                 | Mycelium ↔ Node role (edges)                                        | Primary flows (physical → engineering → metaphysical)                                                                   | Example [metrics](https://ukb-dt.github.io/token-prediction/) / sensors                                 |
+|               Scale |  [Code](https://ukb-dt.github.io/vogelstein/)  | Canon [daily](https://ukb-dt.github.io/hourly/) energy ($2\times 10^N%) | Ukb-Fractal layer       | Airport topology (node anatomy)                                                 | Mycelium ↔ Node role (edges)                                        | Primary flows (physical → engineering → metaphysical)                                                                   | Example [metrics](https://ukb-dt.github.io/token-prediction/) / sensors                                 |
 | ------------------: | :----: | :-------------------------: | :---------------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
 |              [Person](https://ukb-dt.github.io/kd/) |  **[P](https://ukb-dt.github.io/kWh-02/)** |  **2×10⁰ kWh = [2 kWh](https://ukb-dt.github.io/dopamine/)/day**  | Soil (θ′)               | **Terminal / Gate-seat** — endpoint passenger                                   | Mycelium threads → mitochondria / wearable sensors                  | Physical: [food](https://ukb-dt.github.io/inv-ukb/)/heat → Engineering: [prosthetics](https://ukb-dt.github.io/emc2-00/)/wearables → Metaphysical: identity/agency                                | [Power](https://ukb-dt.github.io/bf/) ([W](https://ukb-dt.github.io/twin-00/)), HR, step [cadence](https://ukb-dt.github.io/li/), [sleep](https://ukb-dt.github.io/oxytocin/) (kcal/day)             |
 |           [Household](https://ukb-dt.github.io/ma/) |  **[H](https://ukb-dt.github.io/extension-cable/)** |  **2×10¹ [kWh](https://ukb-dt.github.io/kWh-01/) = 20 [kWh](https://ukb-dt.github.io/era/)/[day](https://ukb-dt.github.io/pbsmc-cesgm/)** | Roots (θ)               | **Concourses / Gates** — multiple household gates feeding concourse             | Local mycelium → neighborhood mesh (Wi-Fi, local grid, social ties) | Physical: electrons & water → Engineering: wiring, geyser → Metaphysical: home, care, habit                             | [Smart-meter](https://ukb-dt.github.io/power-time/) kWh/day, per-circuit power, occupancy         |
