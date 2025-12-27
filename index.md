@@ -20,7 +20,7 @@
 
 # θ - OpenAI
 ## 1
-# [Digital Town](https://ukb-dt.github.io/ilya-z/) — [Pentadic](https://ukb-dt.github.io/db/) [Flow](https://ukb-dt.github.io/prosody-00/) Table (compact ukb-[fractal](https://ukb-dt.github.io/invariance/) view)
+# [Digital Town](https://ukb-dt.github.io/ilya-z/) — [Pentadic](https://ukb-dt.github.io/db/) [Flow](https://ukb-dt.github.io/prosody-00/) Table (compact ukb-[fractal](https://ukb-dt.github.io/invariance/) [view](https://ukb-dt.github.io/penelope-00/))
 
 Nice circuit mapping — here’s a single, chewable table that captures **scale**, **canonical daily energy**, the **ukb-fractal layer**, the **airport/topology metaphor**, the **mycelium (edges) ↔ nodes mapping**, and the **primary flows** (physical → [engineering](https://ukb-dt.github.io/binary/) → metaphysical). I kept your canonical $2\times 10^N$ rounding and the workstation temperament in the background; this is meant as an operational lens for design, audit, and storytelling.
 
