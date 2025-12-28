@@ -20,7 +20,7 @@
 
 
 <iframe
-  width="75%"
+  width="35%"
   height="auto"
   src="https://www.youtube.com/embed/XHxdrZ5fF2A?list=RDXHxdrZ5fF2A&start_radio=1"
   title="YouTube video player"
