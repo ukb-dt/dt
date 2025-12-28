@@ -18,6 +18,18 @@
 </script>
 {% endraw %}
 
+
+<iframe
+  width="75%"
+  height="auto"
+  src="https://www.youtube.com/embed/XHxdrZ5fF2A?list=RDXHxdrZ5fF2A&start_radio=1"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
 # θ - OpenAI
 ## 1
 # [Digital Town](https://ukb-dt.github.io/ilya-z/) — [Pentadic](https://ukb-dt.github.io/db/) [Flow](https://ukb-dt.github.io/prosody-00/) Table (compact ukb-[fractal](https://ukb-dt.github.io/invariance/) [view](https://ukb-dt.github.io/penelope-00/))
